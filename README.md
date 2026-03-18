@@ -44,6 +44,18 @@ Dự đoán độ tuổi: Sai số trung bình tuyệt đối (MAE) chỉ 4.2.
 
 Khả năng giải thích: Trích xuất thành công 11 điểm đặc trưng giúp xác định các dấu hiệu lão hóa rõ rệt
 
+## Kết quả Grad-CAM
+![Kết quả của Grad-CAM](screenshots/kqgradcam.png)
+
+## Kết quả của dự đoán tuổi và giới tính
+![Kết quả của dự đoán tuổi và giới tính](screenshots/kqdudoantuoi.png)
+
+## Kết quả Grad-Cam của 11 điểm trên khuôn mặt
+![Kết quả của 11 điểm trên khuôn mặt](screenshots/kq11vung.png)
+
+## Kết quả dự đoán ngưỡng và trung bình lỗi tuyệt đối (MAE)
+![Kết quả của 11 điểm trên khuôn mặt](screenshots/kqdudoannguong.png)
+
 ## 📂 Cấu trúc thư mục dự án
 
 /app: Mã nguồn ứng dụng Android.
